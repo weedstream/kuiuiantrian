@@ -47,7 +47,7 @@ class Ambil extends CI_Controller
 
         // $this->db->insert('antrian');
         
-        redirect('ambil/print/');
+        redirect('ambil/proc_print/');
         // redirect('ambil');
     }
 
